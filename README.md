@@ -19,7 +19,7 @@
 
 ```typescript
 const gecamepsis = {
-  name:       "Elmer De la Paz Ttito",
+  name:       "gecamepsis",
   role:       "Backend Developer",
   location:   "Peru 🇵🇪",
   email:      "emdelapazt@gmail.com",
