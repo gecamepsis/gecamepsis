@@ -22,7 +22,7 @@ const gecamepsis = {
   name:       "gecamepsis",
   role:       "Backend Developer",
   location:   "Peru 🇵🇪",
-  email:      "emdelapazt@gmail.com",
+  email:      "gecamepsis@gmail.com",
   stack:      ["NestJS", "Spring Boot", "Node.js", "PostgreSQL", "Kafka"],
   learning:   ["Web3", "Microservices", "Machine Learning"],
   hobbies:    ["Logo Design", "Blog Writing", "Open Source"],
