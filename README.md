@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Elmer%20De%20la%20Paz%20Ttito&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Peru%20%F0%9F%87%B5%F0%9F%87%AA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=gecamepsis&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Peru%20%F0%9F%87%B5%F0%9F%87%AA&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%9A%80;NestJS+%7C+Spring+Boot+%7C+Microservices;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=IsyelDev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IsyelDev)
-[![GitHub followers](https://img.shields.io/github/followers/IsyelDev?label=Followers&style=social)](https://github.com/IsyelDev)
+[![Profile Views](https://komarev.com/ghpvc/?username=gecamepsis&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gecamepsis)
+[![GitHub followers](https://img.shields.io/github/followers/gecamepsis?label=Followers&style=social)](https://github.com/gecamepsis)
 
 </div>
 
@@ -18,8 +18,8 @@
 ## 👨🏻‍💻 About Me
 
 ```typescript
-const elmer = {
-  name:       "SIFO",
+const gecamepsis = {
+  name:       "Elmer De la Paz Ttito",
   role:       "Backend Developer",
   location:   "Peru 🇵🇪",
   email:      "emdelapazt@gmail.com",
@@ -120,16 +120,16 @@ const elmer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsyelDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsyelDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gecamepsis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gecamepsis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsyelDev&theme=tokyonight&hide_border=true" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gecamepsis&theme=tokyonight&hide_border=true" width="700" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsyelDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gecamepsis&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ---
@@ -138,9 +138,9 @@ const elmer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsyelDev/IsyelDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsyelDev/IsyelDev/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsyelDev/IsyelDev/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gecamepsis/gecamepsis/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gecamepsis/gecamepsis/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gecamepsis/gecamepsis/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -151,10 +151,10 @@ const elmer = {
 ## 📜 Articles & Writing
 
 <p>
-  <a href="https://medium.com/@adityakanoi123">
+  <a href="https://medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://thedefenceengineer.quora.com/">
+  <a href="https://www.quora.com/">
     <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
   </a>
 </p>
@@ -167,10 +167,10 @@ const elmer = {
   <a href="mailto:emdelapazt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tu-linkedin">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/IsyelDev">
+  <a href="https://github.com/gecamepsis">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -179,7 +179,7 @@ const elmer = {
 
 ## 💰 Support My Work
 
-<a href="https://buymeacoffee.com/adityakanoi">
+<a href="https://buymeacoffee.com/">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
